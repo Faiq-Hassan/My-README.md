@@ -6,7 +6,7 @@ I build reliable software systems and explore technology through deep technical 
 My focus is on **writing clean code, understanding systems deeply, and shipping real solutions.**
 
 
-## 🚀 About Me
+## About Me
 
 * 💻 Passionate about **software engineering and system design**
 * 🧠 Focused on **learning technologies from first principles**
@@ -14,10 +14,9 @@ My focus is on **writing clean code, understanding systems deeply, and shipping 
 * 📚 Always improving through **experimentation and deep dives**
   
 
-## 🤝 Connect With Me
+## Connect With Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+* LinkedIn: [https://linkedin.com/in/](https://www.linkedin.com/in/faiq-hassan-59648621b/)
 * Email: [faiqghumman4@gmail.com](mailto:faiqghumman4@gmail.com)
 
 ---
