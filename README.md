@@ -8,10 +8,10 @@ My focus is on **writing clean code, understanding systems deeply, and shipping 
 
 ## About Me
 
-* 💻 Passionate about **software engineering and system design**
-* 🧠 Focused on **learning technologies from first principles**
-* ⚡ Constantly building **projects that solve real problems**
-* 📚 Always improving through **experimentation and deep dives**
+*  Passionate about **software engineering and system design**
+*  Focused on **learning technologies from first principles**
+*  Constantly building **projects that solve real problems**
+*  Always improving through **experimentation and deep dives**
   
 
 ## Connect With Me
