@@ -11,7 +11,7 @@
 
 ### ⚡ Frontend Architect · Full-Stack Craftsman · Digital Product Builder ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=I+don't+just+write+code+—+I+engineer+experiences.;CRM+%7C+POS+%7C+ERP+%7C+Whatever+You+Dream+Up.;Vibe+Coding+at+its+finest.+No+cap.;React+%2B+Laravel+%2B+Tailwind+%3D+Magic.;From+Faisalabad+🇵🇰+to+the+Global+Stage." alt="Typing SVG" />
+
 
 </div>
 
