@@ -136,8 +136,6 @@ Whether you have a half-baked idea or a full technical spec — I'm ready to tur
 
 <div align="center">
 
-**⚡ Profile views:**
-![](https://komarev.com/ghpvc/?username=Faiq-Hassan&color=38BDF8&style=flat-square)
 
 *"Code is temporary. Impact is permanent."*
 — Faiq Hassan
