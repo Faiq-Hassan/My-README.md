@@ -11,8 +11,6 @@
 
 ### ⚡ Frontend Architect · Full-Stack Craftsman · Digital Product Builder ⚡
 
-
-
 </div>
 
 ---
